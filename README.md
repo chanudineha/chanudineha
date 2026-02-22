@@ -3,10 +3,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+engineer+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+engineer+Student;Full+Stack+Web+Developer;ui/ux+Designer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<h3 align="center">Passionate IT Student |Future Full-Stack Developer</h3>
+<h3 align="center">Passionate IT Student |Future Full-Stack Developer | UI/UX Designer</h3>
 
 
 <table align="center">
